@@ -72,5 +72,8 @@ For this project, I'll be utilizing Tableau to craft a dynamic dashboard tailore
     * Segmentation of sales into each payment method.
     * Further breakdown of payment method sales for each branch.
 
+### Supermarket KPI Dashboard
+
 ![Supermarket_KPI_Dashboard.png](Supermarket_KPI_Dashboard.png)
 
+You can access the dashboard by clicking on the following [link](https://public.tableau.com/app/profile/derrick.adrian.payas/viz/SupermarketsKPIs/Dashboard2#1) on Tableau Public.
